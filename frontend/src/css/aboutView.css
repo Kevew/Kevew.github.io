@@ -1,0 +1,17 @@
+.titleText{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 3vw;  
+}
+.subTitleText{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.5vw;
+  padding: 10px;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
