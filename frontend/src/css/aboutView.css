@@ -11,7 +11,26 @@
   font-size: 1.5vw;
   padding: 10px;
 }
+p{
+  text-align: left;
+  font-size: 1vw;
+}
 .center{
   margin-left: auto;
   margin-right: auto;
+}
+a {
+  background: linear-gradient(0deg, rgb(255, 255, 255), rgb(255, 255, 255)) no-repeat right bottom / 0 var(--bg-h);
+  transition: background-size 350ms;
+  --bg-h: 100%;
+}
+a:where(:hover, :focus-visible) {
+  background-size: 100% var(--bg-h);
+  background-position-x: left;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  line-height: 1;
 }

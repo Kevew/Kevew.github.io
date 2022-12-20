@@ -9,7 +9,7 @@
         <v-col cols="6">
           <h5 class="red--text text-darken-4" style="font-size:30px;padding-top:100px">Born: 12/21/2005</h5>
           <h1 class="white--text"  style="font-size: 48px">Name: Kevin Wei</h1>
-          <p class="grey--text" style="font-size: 22px">
+          <p class="grey--text">
             As of 2022, I currently go to Earl of March (Secondary School). It's located just west of Ottawa near the small suburb of Kanata.
             I attend school dilgently focusing on classes related to the technology sector. On weekends, I go to Carleton University to work as a Instructor for
             <a href="https://carleton.ca/vv/clubs/fallclubs/">VV</a>. <br><br> I have a strong interest in technology such as networking, A.I and software development
@@ -59,12 +59,12 @@
             product development and release. There was a total of about 60 hours in total (actually 50 because 2 of the weeks were for presentations) which wasn't 
             a lot of time but I did develop some cool projects. Some examples are my <a href="https://docs.google.com/presentation/d/1A2erx_96anwyrVEBjN2hmZiu5Holr6Tvqioauukw2PY/edit?usp=sharing">3D Movement Game</a>
             or <a href="https://docs.google.com/presentation/d/1R0L7FRoSW0pJyYyXSvn9eZYlKWU6jrrgWlblBRTnbBQ/edit?usp=sharing">2D Plant Fighting</a>. 
-            These projects helped me develop not only as a programmer but in many other crucial skills such as teamwork as communication. <br> <br>
+            These projects helped me develop not only as a programmer but in many other crucial skills such as teamwork and communication. <br> <br>
             Although most of these projects were a casual thing, I also still enjoyed the competitive side of programming. In 2018, I found out about competitive programming.
             It's frankly a pretty niche in coding. Most people in software want to develop the next amazon or google but like math, I also loved the logical thinking side of it.
             Wanting to get more people interested, me and a friend got together and founded the competitive programming club at my school. It's still running to this day! 
             The big contest I wanted to get a decent score in was the <a href="https://www.cemc.uwaterloo.ca/contests/ccc-cco.html">CCC</a> and in 2021, I achieve group 3
-            in senior with a score of 45 (Top 3%).
+            in senior with a score of 45 (Top 3% in Canada).
             <br><br>
             Nowadays, I have a co-op at Nokia as a Network and Software Installation (though I mostly do full-stack development). I am constantly looking for new 
             opportunities and new ways to improve myself. I hope to see you in the future, whatever that may be!
@@ -72,10 +72,13 @@
         </v-col>
       </v-row>
       <v-row>
-        <h1 class="white--text titleText" style="padding-top: 200px">Resume</h1>
+        <h1 class="white--text titleText" style="padding-top: 200px">Resume (Takes a bit to load)</h1>
       </v-row>
       <v-row>
-        <v-btn class="center" tile color="#A7121D" dark to="/about">Download</v-btn>
+        <iframe class="center" src="https://drive.google.com/file/d/11m1oeijLPRrXTNkaxK5RPebzsDiT5c3l/preview" width="75%" height="880" allow="autoplay"></iframe>
+      </v-row>
+      <v-row>
+        <v-btn class="center" tile color="#A7121D" dark href="https://drive.google.com/uc?export=download&id=11m1oeijLPRrXTNkaxK5RPebzsDiT5c3l" download="Resume.pdf">Download</v-btn>
       </v-row>
     </v-container>
   </v-app>
