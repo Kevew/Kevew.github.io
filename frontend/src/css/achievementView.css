@@ -211,14 +211,14 @@ section{
   }
 }
 
-.titleText{
+.info .titleText{
   text-align: center;
   margin-left: auto;
   margin-right: auto;
   font-size: 3vw; 
   background-color: #111111;
 }
-.subTitleText{
+.info .subTitleText{
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -226,7 +226,7 @@ section{
   padding: 10px;
   background-color: #111111;
 }
-p{
+.info p{
   text-align: left;
   font-size: 1vw;
   background-color: #111111;

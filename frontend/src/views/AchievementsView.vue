@@ -125,7 +125,8 @@
                   <div class="info">
                     <h1 class="white--text titleText">Nokia</h1>
                     <p>Recently, I took a co-op as a course for my semester. Seeing a opportunity for a Nokia Co-Op, I decided to take it. The Co-Op was about
-                       Software Installations and Networking. After a quick interview with it's supervisor, I got the Co-Op.<br><br>
+                       Software Installations and Networking. After a quick interview with it's supervisor, I got the Co-Op.<br><br> TALK MORE ABOUT HOW I GOT IN 
+                       USING WHY LIKE TALK ABOUT VV AND COMPUTER STUFF
 
                        For the first month of the Co-Op, I spent a lot of time learning about networking and exactly how it worked. The lab I worked in was large with
                        hundreds of chassis constantly doing jobs. However over the first month as I explored different tasks, I found a task that suited my abilities much
@@ -201,8 +202,7 @@
                 </div>
                 <div class="right-column">
                   <div class="img-card">
-                    <img @click="openImage(8)" src="" alt="">
-                    <p>another image</p>
+                    <img @click="openImage(9)" src="@/assets/ClubPhoto.png" alt="">
                   </div>
                 </div>
                 <div class="right-column">
