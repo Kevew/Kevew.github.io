@@ -93,6 +93,7 @@
 
 <script>
   import Navbar from '../components/NavBar';
+  import emailjs from 'emailjs-com';
 
   export default {
     name: 'HomeView',
@@ -107,11 +108,23 @@
         emailMessage: "",
 
         myEmail: "wei000333@gmail.com",
+        serviceId: "gmail",
+        templateId: "template_w6dlv4o",
+        publicUserId: "uvG8WogUfl8h81VxZ",
       }
     },
     methods: {
       sendEmail(){
-        
+        try {
+          let a = {from_name: this.emailName, to_name: "Kevin", message: this.emailMessage, from_email: this.email};
+          emailjs.send(this.serviceId, this.templateId, a, 'uvG8WogUfl8h81VxZ');
+
+        } catch(error) {
+            console.log(error);
+        }
+        this.emailName = ''
+        this.email = ''
+        this.emailMessage = ''
       }
     }
   }
