@@ -35,7 +35,7 @@
                       click <a href="https://cemc.uwaterloo.ca/contests/ccc-cco.html">here</a>. <br> <br>
                       For the past 3 years, I've been attending each contest with consistent improvement each time. <br>
                       ⚪ 2020 Senior Contest: 31 Points<br>
-                      ⚪ 2021 Senior Contest: 37 Points<br>
+                      ⚪ 2021 Senior Contest: 37 Points<br><br>
                       Last year, in 2022, I achieved my highest score yet. A total of 45 points in the Senior Contest allowed me to enter the honor roll group 3. 
                       This is around the top 3% in Canada and the highest score in my entire school.
                     </p>
@@ -75,7 +75,7 @@
                 <div class="right-column">
                   <div class="info">
                     <p>While 12 weeks of development may seem like much, if you actually calculate it, it's about 48 hours of total development time. 
-                      Minus 2 meetings for presentation and week 1 for design, it really leaves you with only 36 hours to develop a project.
+                      This doesn't include two meetings for presentation and week 1 for design, which really leaves you with only 36 hours to develop a project.
                       This is basically the same thing as a 2-day game jam which is not a lot of time. <br> <br>
 
                       Still, from 2017 to early 2021, I rigorously attended this club multiple times. I learned how to use Unity, C#, and Java as I tried out different projects.
@@ -185,7 +185,7 @@
                   <div class="info">
                     <h1 class="white--text titleText">Founding A Club</h1>
                     <p> In 2021, wanting to further my competitive programming skills, I co-founded the Competitive Programming Club with one of my friends. Having
-                      practically no experience in such a thing, the first year of the club went so-so. We had two weekly meetings where we discussed algorithms and 
+                      practically no experience in such a thing, the first year of the guitclub went so-so. We had two weekly meetings where we discussed algorithms and 
                       solved problems. However, due to a lack of experience, we didn't get many members. Despite that, we persevered all the way to the end of the school year
                       and prepared for the next year. <br> <br>
 
