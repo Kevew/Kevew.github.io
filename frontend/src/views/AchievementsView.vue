@@ -36,7 +36,7 @@
                       For the past 3 years, I've been attending each contest with consistent improvement each time. <br>
                       ⚪ 2020 Senior Contest: 31 Points<br>
                       ⚪ 2021 Senior Contest: 37 Points<br><br>
-                      Last year, in 2022, I achieved my highest score yet. A total of 45 points in the Senior Contest allowed me to enter the honor roll group 3. 
+                      Last year, in 2022, I achieved my highest score yet. A total of 45 points in the Senior Contest pushing me to enter the honor roll group 3. 
                       This is around the top 3% in Canada and the highest score in my entire school.
                     </p>
                   </div>
@@ -97,14 +97,14 @@
                 </div>
                 <div class="right-column">
                   <div class="info">
-                    <p> With my last project in 2021 and the club moving to virtual, I thought it was a nice time to do 
-                      something a little different. So, I took the initiative and asked the instructors running the club if I could volunteer for it. Thru this, I
+                    <p> With my last project in 2021 and the club moving to virtual, I wanted to take it up a notch
+                      . I took the initiative and asked the instructors running the club if I could volunteer for it. Thru this, I
                       managed to get my 40 hours of volunteer plus an extra 90 hours as well. As 2022 rolled around, I was promoted to being an actual instructor and worked
-                      every Saturday by answering questions and helping out the students. Seeing the 12 weeks go by, I noticed a position for a full-time position 
-                      during Summer as an Instructor and applied. <br> <br>
+                      every Saturday by answering questions and helping out the students. <br> <br>
 
                       It was one of the best experiences I've ever had and I've learned a lot. I worked with kids from kindergarten all the way up to grade 9. The first
-                      week was quite chaotic but with the help of my co-workers, I got the hang of it. It was quite interesting interacting with people with
+                      week was quite chaotic but with the help of my co-workers, I got the hang of it. We coordinated lesson plans, ensured discipline and was mindful 
+                      of the campers situations. During the process, I even taught some of the lesson plans myself. It was quite interesting interacting with people with
                       different outlooks than mine. <br> <br>
 
                       Since then, I've worked as another Saturday Club Instructor and now fill in as a substitute in case an instructor is missing or can't make it.
@@ -133,13 +133,20 @@
                        hundreds of chassis constantly doing jobs. However, over the first month, as I explored different tasks, I found a task that suited my abilities much
                        better. One of the tools my supervisor uses quite often is something called OTS. It's basically their in-house order tracking system and seeing a chance.
                        I asked to do some tasks related to it. As a result, from the second month onwards, I was given the task to help develop and maintain the OTS website.
-                       Since the website used NodeJs, VueJs, and HTML, I had to learn quite a bit. I even used most of the knowledge gained to develop this very website.
+                       Since the website used NodeJs, Vue Js, and HTML, I had to learn quite a bit. I even used most of the knowledge gained to develop this very website.
 
                        <br><br>
 
-                       I find this experience fascinating because it felt like my first proper work experience. My previous job as an instructor in Virtual Ventures was
-                       much more informal. This experience was different. Professionalism was at the forefront of my thoughts and I really felt the gap of experience between
-                       me and some of my co-workers. Problems that may take hours for me to solve was a problem they experienced before and can easily solve now. This Co-Op
+                       I wasn't the only one working on the project. This experience was the first thing I coordinated on a technical level for code. I had to ensure
+                       my code was readable to others which was not a problem I've faced till now. GitHub was another big aspect of the teamwork I experienced as it had
+                       dedicated issue pages with easy flexibility. I had to get others to review my code to make sure that the changes I do won't cause other people's 
+                       environment to have problems.
+
+                       <br><br>
+
+                       I find this experience fascinating because professionalism was at the forefront of my thoughts and I really felt the gap of experience between
+                       me and some of my co-workers. Problems that may take hours for me to solve was a problem they experienced before and can easily solve now. 
+                       The whole atmosphere was something new that I had to get use to. This Co-Op
                        experience taught me a lot and widen my horizons on what I was capable of doing.
                     </p>
                   </div>
@@ -157,11 +164,11 @@
                 <div class="right-column">
                   <div class="info">
                     <h1 class="white--text titleText">Grade 12 CS Project</h1>
-                    <p> In 2021, I took my Grade 12 CS class early because I was really excited about it. As a result, when we were given the task of developing our 
-                      own project of our choice, I smiled as I recalled my VV experience. Thinking about the project, I ultimately decided to develop an Earl of March Virtual
-                      Tour where you can explore the school from anywhere.   <br><br>
+                    <p> In 2021, I took my Grade 12 CS class early because I was really excited about it. We were given a semester to create a personal project of our choice.
+                      Thinking about the project, I ultimately decided to develop an Earl of March Virtual
+                      Tour where you can explore the school from anywhere you want.   <br><br>
 
-                      However, at the end of the semester, I felt a bit unsatisfied with the product. As such, I talked with a guidance counselor at my school and 
+                      However, at the end of the semester, I felt a bit unsatisfied with the product and as such, I talked with a guidance counselor at my school and 
                       decided to continue the project. I even managed to get paid for the extra work I did on the project by the school itself. At the end of the project,
                       you can visit the inside and outdoor areas of the school, using the path system to find specific rooms and lots of options for customization.
 
