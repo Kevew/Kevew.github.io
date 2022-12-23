@@ -113,26 +113,6 @@
     margin: 0 10px;
   }
 
-  .social a{
-    text-decoration: none;
-    color: #fff;
-  }
-  
-a {
-  background: linear-gradient(0deg, rgb(255, 255, 255), rgb(255, 255, 255)) no-repeat right bottom / 0 var(--bg-h);
-  transition: background-size 350ms;
-  --bg-h: 100%;
-}
-a:where(:hover, :focus-visible) {
-  background-size: 100% var(--bg-h);
-  background-position-x: left;
-}
-
-a {
-  text-decoration: none;
-  color: inherit;
-  line-height: 1;
-}
 
 .v-image{
   max-width: 1200px;
@@ -259,4 +239,112 @@ footer{
 	.contact-box{
 		grid-template-columns: 1fr;
 	}
+}
+
+
+
+.popup-img{
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.9);
+  height: 100%;
+  width: 100%;
+  z-index: 100;
+  display: none;
+}
+
+.popup-img span{
+  position: absolute;
+  top: 0;
+  right: 10px;
+  font-size: 60px;
+  font-weight: bolder;
+  color: #fff;
+  cursor: pointer;
+  z-index: 100px;
+}
+
+.popup-img img{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 5px solid #fff;
+  border-radius: 5px;
+  width: 750px;
+  object-fit: cover;
+}
+
+@media(max-width: 768px){
+  .popup-img img{
+    width: 95%;
+  }
+}
+
+
+.titleText{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 3vw; 
+  color: #ffffff;
+}
+
+.achivementPadding{
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.btn-2{
+  font-size: 18px;
+  font-weight: 18px;
+  font-weight: bold;
+  background: #5b85ff;
+  width: 160px;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0,0,0, 0.1);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: box-shadow, transform;
+  transition-property: box-shadow, transform;
+}
+
+.btn-2:hover, .btn-2:focus .btn-2:active{
+  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.social a{
+  text-decoration: none;
+  color: #fff;
+}
+
+a {
+background: linear-gradient(0deg, rgb(255, 255, 255), rgb(255, 255, 255)) no-repeat right bottom / 0 var(--bg-h);
+transition: background-size 350ms;
+--bg-h: 100%;
+}
+a:where(:hover, :focus-visible) {
+background-size: 100% var(--bg-h);
+background-position-x: left;
+}
+
+a {
+text-decoration: none;
+color: inherit;
+line-height: 1;
+}
+
+.lastCenter{
+  padding-top: 20px;
+  margin: auto;
+  width:10%;
 }

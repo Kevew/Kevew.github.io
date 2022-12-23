@@ -27,7 +27,7 @@
                 <div class="right-column">
                   <div class="info">
                     <h1 class="white--text titleText">CCC Contest</h1>
-                    <p>The Canadian Computing Competition (CCC) is a fun competitive programming contest designed for people with an interest in coding
+                    <p>The Canadian Computing Competition (CCC) is a fun programming contest designed for people with an interest in competitive programming.
                       Designed for beginners and veterans, it is a three-hour contest where participants are given problems requiring problem-solving skills which 
                       they must write out code for it. There are two main levels for the contest:<br> <br>
                       ⚪ Junior level — any participant with beginner programming skills <br>
@@ -55,14 +55,14 @@
                   <div class="info">
                     <h1 class="white--text titleText">Virtual Ventures</h1>
                     <p>Virtual Ventures is a not-for-profit organization run under the Faculty of Engineering and Design at Carleton University.
-                      I first applied for it's Intermediate Engineering & Design Studio (Grades 7-12) which is a club they run every Saturday from 1pm to 5pm.
-                      The goal of the club is to research and develop a product over the span of 12 meetings. This can be a video game, animation or app.
+                      I first applied for its Intermediate Engineering & Design Studio (Grades 7-12) which is a club that runs every Saturday from 1pm to 5pm.
+                      The goal of the club is to research and develop a product throughout 12 meetings. This can be a video game, animation, or app.
 
                       <br><br>
 
-                      When I first joined this club back in 2017, I didn't know what I was getting into. This club unlike other sort of STEM outreach forces 
-                      the members to be independent. There are instructors but you must first research about whatever problem you are encountering before asking. 
-                      As a result, this club was a excellent opportunity to learn about teamwork, independent work and communication. 
+                      When I first joined this club back in 2017, I didn't know what I was getting into. This club, unlike other sorts of STEM outreachs, forces 
+                      the members to be independent. There are instructors but you must first research whatever problem you are encountering before asking. 
+                      As a result, this club was an excellent opportunity to learn about teamwork, independent work, and communication. 
                     </p>
                   </div>
                 </div>
@@ -76,10 +76,10 @@
                   <div class="info">
                     <p>While 12 weeks of development may seem like much, if you actually calculate it, it's about 48 hours of total development time. 
                       Minus 2 meetings for presentation and week 1 for design, it really leaves you with only 36 hours to develop a project.
-                      This is basically the same thing as a 2 day game jam which is not a lot of time. <br> <br>
+                      This is basically the same thing as a 2-day game jam which is not a lot of time. <br> <br>
 
-                      Still from 2017 to early 2021, I rigriously attended this club multiple times. I learned how to use Unity, C# and Java as I tried out different projects.
-                      My favourite two are: 
+                      Still, from 2017 to early 2021, I rigorously attended this club multiple times. I learned how to use Unity, C#, and Java as I tried out different projects.
+                      My favorite two are: 
                       <a href="https://docs.google.com/presentation/d/1R0L7FRoSW0pJyYyXSvn9eZYlKWU6jrrgWlblBRTnbBQ/edit?usp=sharing" target="_blank">Botanical Rumble</a>
                       and <a href="https://docs.google.com/presentation/d/1A2erx_96anwyrVEBjN2hmZiu5Holr6Tvqioauukw2PY/edit?usp=sharing" target="_blank">Bubble Shooter</a>
                     </p>
@@ -99,15 +99,15 @@
                   <div class="info">
                     <p> With my last project in 2021 and the club moving to virtual, I thought it was a nice time to do 
                       something a little different. So, I took the initiative and asked the instructors running the club if I could volunteer for it. Thru this, I
-                      managed to get my 40 hours of volunteer plus a extra 90 hours as well. As 2022 rolled around, I was promoted to being a actual instructor and worked
-                      every Saturday by answering questions and helping out the students. Seeing the 12 weeks go by, I noticed a position for a full time position 
-                      during Summer as a Instructor and applied. <br> <br>
+                      managed to get my 40 hours of volunteer plus an extra 90 hours as well. As 2022 rolled around, I was promoted to being an actual instructor and worked
+                      every Saturday by answering questions and helping out the students. Seeing the 12 weeks go by, I noticed a position for a full-time position 
+                      during Summer as an Instructor and applied. <br> <br>
 
                       It was one of the best experiences I've ever had and I've learned a lot. I worked with kids from kindergarten all the way up to grade 9. The first
-                      week was quite chaotic but with the help of my co-workers, I got the hang of it. It was quite interesting interacting with people with much
+                      week was quite chaotic but with the help of my co-workers, I got the hang of it. It was quite interesting interacting with people with
                       different outlooks than mine. <br> <br>
 
-                      Since then, I've worked as another Saturday Club Instructor and now fill in as a subsitude in case a instructor is missing or can't make it.
+                      Since then, I've worked as another Saturday Club Instructor and now fill in as a substitute in case an instructor is missing or can't make it.
                     </p>
                   </div>
                 </div>
@@ -124,21 +124,22 @@
                 <div class="right-column">
                   <div class="info">
                     <h1 class="white--text titleText">Nokia</h1>
-                    <p>Recently, I took a co-op as a course for my semester. Seeing a opportunity for a Nokia Co-Op, I decided to take it. The Co-Op was about
-                       Software Installations and Networking. After a quick interview with it's supervisor, I got the Co-Op.<br><br> TALK MORE ABOUT HOW I GOT IN 
-                       USING WHY LIKE TALK ABOUT VV AND COMPUTER STUFF
+                    <p>Recently, I took a co-op course for my 2022 Fall semester. Seeing an opportunity for a Nokia Co-Op and with my 
+                       prior experiences in the technology sector, I decided to apply for it. The Co-Op was about
+                       Software Installations and Networking. It was an excellent fit for me, who at this point in time, was looking to explore different aspects of technology
+                       so I could get a better understanding of what I want to do in the future.<br><br>
 
                        For the first month of the Co-Op, I spent a lot of time learning about networking and exactly how it worked. The lab I worked in was large with
-                       hundreds of chassis constantly doing jobs. However over the first month as I explored different tasks, I found a task that suited my abilities much
-                       better. One of the tools my supervisor uses quite often is something called OTS. It's basically their in house order tracking system and seeing a chance.
+                       hundreds of chassis constantly doing jobs. However, over the first month, as I explored different tasks, I found a task that suited my abilities much
+                       better. One of the tools my supervisor uses quite often is something called OTS. It's basically their in-house order tracking system and seeing a chance.
                        I asked to do some tasks related to it. As a result, from the second month onwards, I was given the task to help develop and maintain the OTS website.
                        Since the website used NodeJs, VueJs, and HTML, I had to learn quite a bit. I even used most of the knowledge gained to develop this very website.
 
                        <br><br>
 
-                       I find this experience fascinating because it felt like my first proper work experience. My previous job as a instructor in Virtual Ventures was
+                       I find this experience fascinating because it felt like my first proper work experience. My previous job as an instructor in Virtual Ventures was
                        much more informal. This experience was different. Professionalism was at the forefront of my thoughts and I really felt the gap of experience between
-                       me and some of my co-workers. Problems which may take hours for me to solve was a problem they experienced before and can easily solved it. This Co-Op
+                       me and some of my co-workers. Problems that may take hours for me to solve was a problem they experienced before and can easily solve now. This Co-Op
                        experience taught me a lot and widen my horizons on what I was capable of doing.
                     </p>
                   </div>
@@ -156,13 +157,13 @@
                 <div class="right-column">
                   <div class="info">
                     <h1 class="white--text titleText">Grade 12 CS Project</h1>
-                    <p> Back in 2021, I took my Grade 12 CS class early because I was really excited for it. As a result, when we were given the task of developing our 
-                      own project of our choice, I smiled as I recalled my VV experience. Thinking about the project, I ultimately decided to develop a Earl of March Virtual
+                    <p> In 2021, I took my Grade 12 CS class early because I was really excited about it. As a result, when we were given the task of developing our 
+                      own project of our choice, I smiled as I recalled my VV experience. Thinking about the project, I ultimately decided to develop an Earl of March Virtual
                       Tour where you can explore the school from anywhere.   <br><br>
 
-                      However at the end of the semester I felt a bit unsatisfied with the product. As such, I talked with a guidance counsellor at my school and 
-                      decided to continue the project. I even managed to get a paid for the extra work I did on the project by the school itself. At the end of the project,
-                      you can visit the inside and outdoor areas of the school, path system to find specific rooms and lots of options for customization.
+                      However, at the end of the semester, I felt a bit unsatisfied with the product. As such, I talked with a guidance counselor at my school and 
+                      decided to continue the project. I even managed to get paid for the extra work I did on the project by the school itself. At the end of the project,
+                      you can visit the inside and outdoor areas of the school, using the path system to find specific rooms and lots of options for customization.
 
                       <br><br>If you want to see the final product you can click 
                       <a href="https://drive.google.com/file/d/1w0Su5SMSDWzM00CLSP4brSDWwLz8cb-B/view?usp=sharing" target="_blank">right here</a>
@@ -184,13 +185,13 @@
                   <div class="info">
                     <h1 class="white--text titleText">Founding A Club</h1>
                     <p> In 2021, wanting to further my competitive programming skills, I co-founded the Competitive Programming Club with one of my friends. Having
-                      pratically no experience in such a thing, the first year of the club went so-so. We had two weekly meetings where we dicussed algorithms and 
-                      solved problems. However due to a lack of experience, we didn't get many members. Despite that we persevered all the way to the end of the school year
-                      and prepared for next year. <br> <br>
+                      practically no experience in such a thing, the first year of the club went so-so. We had two weekly meetings where we discussed algorithms and 
+                      solved problems. However, due to a lack of experience, we didn't get many members. Despite that, we persevered all the way to the end of the school year
+                      and prepared for the next year. <br> <br>
 
-                      This year went much better. Using last year's experience, we turned to club back into in-person meetings and managed to get a average active member count of 6-7
-                      people. Me and my co-founder decided that it would be better to have one meeting per week this year and worked out presentations for the members where
-                      we discuss ideas, problems and algorithms to them. We also do a virtual contests with them where we have fun competiting againsn't each other for fun.
+                      This year went much better. Using last year's experience, we turned to club back into in-person meetings and managed to get an average active member count of 6-7
+                      people. I and my co-founder decided that it would be better to have one meeting per week this year and worked out presentations for the members where
+                      we discuss ideas, problems, and algorithms with them. We also do virtual contests with them where we have fun competing against each other for fun.
                       All in all, it's been a great experience with them.
                     </p>
                   </div>
