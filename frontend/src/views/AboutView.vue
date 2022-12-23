@@ -13,6 +13,11 @@
             I love learning and experiencing new things while also helping others in their interest in coding.
             I have a strong interest in technology such as networking, A.I and software development
             which is why I hope to enter the technology sector in the future!
+
+
+
+            <br> <br> <br> <br> <br> <br> <br>
+            Note: Some images may take longer to load
           </p>
         </v-col>
       </v-row>

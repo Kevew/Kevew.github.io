@@ -18,7 +18,7 @@
       </v-row>
       <v-row>
         <div class="achievementArea center achivementPadding">
-          <h1 class="titleText">Check out my biggest Achievements!</h1>
+          <h1 class="titleText">Check out my Biggest Achievements!</h1>
           <div class="lastCenter">
             <v-btn to="/achievements" x-large elevation="8" class="btn-2">Click Here!</v-btn>
           </div>
