@@ -35,7 +35,7 @@
                       click <a href="https://cemc.uwaterloo.ca/contests/ccc-cco.html">here</a>. <br> <br>
                       For the past 3 years, I've been attending each contest with consistent improvement each time. <br>
                       ⚪ 2020 Senior Contest: 31 Points<br>
-                      ⚪ 2021 Senior Contest: 37 Points<br><br>
+                      ⚪ 2021 Senior Contest: 41 Points<br><br>
                       Last year, in 2022, I achieved my highest score yet. A total of 45 points in the Senior Contest pushing me to enter the honor roll group 3. 
                       This is around the top 3% in Canada and the highest score in my entire school.
                     </p>
