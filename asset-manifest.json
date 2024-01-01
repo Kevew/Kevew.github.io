@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c28b34fa.css",
+    "main.js": "/static/js/main.e373166d.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/ClubPhoto.png": "/static/media/ClubPhoto.eba7894ab908236e1b9d.png",
+    "static/media/AboutMe.jpg": "/static/media/AboutMe.b02b09e4e4846d996333.jpg",
+    "static/media/WorkSpace.jpg": "/static/media/WorkSpace.15e2aac98ef350cf2929.jpg",
+    "static/media/2022Instructor.jpg": "/static/media/2022Instructor.ae21b45e9a69adec82f9.jpg",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/VVPhoto.png": "/static/media/VVPhoto.d9a6cbfd5b793cb60b68.png",
+    "static/media/BotanicalRumble.jpg": "/static/media/BotanicalRumble.846d756f55316715a153.jpg",
+    "static/media/DiceyJourney.jpg": "/static/media/DiceyJourney.0625d0c94d50a3668d38.jpg",
+    "static/media/Pluto.png": "/static/media/Pluto.9408696253c4e05fbece.png",
+    "static/media/ClubContest.jpg": "/static/media/ClubContest.88a4037074f527d10682.jpg",
+    "static/media/CCCResultCaption.jpg": "/static/media/CCCResultCaption.f6761c7ca6c6ace93286.jpg",
+    "static/media/GradPhoto.jpg": "/static/media/GradPhoto.e84520c1ff961ce3ff5e.jpg",
+    "static/media/Resume.pdf": "/static/media/Resume.f236fc9734fc0ed31fc0.pdf",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/EarlofMarchLogo.png": "/static/media/EarlofMarchLogo.ac59faf21cee5ed33101.png",
+    "static/media/project-img3.png": "/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.3a546b5e67bc5ee178d2a35813622fa9.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.f6b769dcb226cdcede9e83a698052c3d.svg",
+    "main.c28b34fa.css.map": "/static/css/main.c28b34fa.css.map",
+    "main.e373166d.js.map": "/static/js/main.e373166d.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c28b34fa.css",
+    "static/js/main.e373166d.js"
+  ]
+}
